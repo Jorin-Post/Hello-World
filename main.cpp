@@ -1,0 +1,5 @@
+#difine <iostream>
+
+int main()
+{
+}
